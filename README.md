@@ -2,4 +2,4 @@
 
 *28.04.2025*
 
-![mem](/images/123123.jpg)
+![mem](c:\Users\admin\Documents\git-practice\images\123123.jpg)
