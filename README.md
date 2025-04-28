@@ -2,4 +2,4 @@
 
 *28.04.2025*
 
-![mem](c:\Users\admin\Documents\git-practice\images\123123.jpg)
+![mem](C:\Users\user\Pictures\maxresdefault.jpg)
