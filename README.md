@@ -1,5 +1,5 @@
-# Poroshin Daniil
+# Кораблев Денис
 
-*29.01.2025*
+*28.04.2025*
 
-![krutoy](c:\Users\admin\Documents\git-practice\images\krutoy.jpg)
+![mem](/images/123123.jpg)
