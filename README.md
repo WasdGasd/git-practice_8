@@ -2,4 +2,4 @@
 
 *29.01.2025*
 
-![krutoy](c:\Users\admin\Documents\git-practice\images\krutoy.jpg)
+![mem](c:\Users\admin\Documents\git-practice\images\123123.jpg)
